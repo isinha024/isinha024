@@ -1,6 +1,6 @@
 # 𝔹𝕀𝕆𝔾ℝ𝔸𝔽𝕀𝔸
 ## 𝓘𝓼𝓪𝓫𝓮𝓵𝓵𝓲 𝓜𝓮𝓭𝓮𝓲𝓻𝓸𝓼
-- ola,eu sou @isinha024
+- 𝑂𝑙𝑎,𝑒𝑢 𝑠𝑜𝑢 @𝑖𝑠𝑖𝑛ℎ𝑎024
 - :woman_technologist: atualmente estou aprendendo a programar
 <div>
 <a href="https://instagram.com/_isinhaa_xz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
